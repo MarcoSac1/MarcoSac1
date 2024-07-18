@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoSac1
 - 👀 I’m interested in ...photography
-- 🌱 I’m currently learning ...HTML, CSS, JavaScript
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript, PHP, Lavarel
 - 💞️ I’m looking to collaborate on ... NEURALINK
 - 📫 How to reach me ... On instagram @MARCOSAC1_PHOTO
 - 😄 Pronouns: ...they/them
