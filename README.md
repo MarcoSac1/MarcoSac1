@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...HTML, CSS, JavaScript, PHP, Lavarel
 - 💞️ I’m looking to collaborate on ... NEURALINK
 - 📫 How to reach me ... On instagram @MARCOSAC1_PHOTO
-- 😄 Pronouns: ...they/them
 - ⚡ Fun fact: ... MADE TO DO SPORT
 
 <!---
