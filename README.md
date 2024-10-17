@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @MarcoSac1
 - 👀 I’m interested in ...photography
 - 🌱 I’m currently learning ...HTML, CSS, JavaScript, PHP, Lavarel
-- 💞️ I’m looking to collaborate on ... NEURALINK
-- 📫 How to reach me ... On instagram @MARCOSAC1_PHOTO
-- ⚡ Fun fact: ... MADE TO DO SPORT
+  
 
 <!---
 MarcoSac1/MarcoSac1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
