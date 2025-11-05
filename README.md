@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoSac1
 - 👀 I’m interested in ...photography
-- 🌱 I’m currently learning ...HTML, CSS, JavaScript, Vue3, React PHP, Lavarel, MySQL.
+- 🌱 I’m currently learning...C, HTML, CSS, JavaScript, Vue3, React PHP, Lavarel, MySQL.
   
 
 <!---
